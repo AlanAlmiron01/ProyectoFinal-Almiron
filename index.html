@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termos Stanley</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Termos Stanley</h1>
+        <nav>
+            <button id="view-cart">🛒 Ver Carrito</button>
+        </nav>
+    </header>
+
+    <main id="products" class="products-container"></main>
+
+    <div id="overlay" class="overlay hidden"></div>
+    <div id="cart-modal" class="cart-modal hidden">
+        <div id="cart-content" class="cart-content"></div>
+        <p id="total">Total: $0.00</p>
+        <button id="checkout">Pagar</button>
+        <button id="close-cart">Cerrar</button>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 Tienda de Termos Stanley. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Stanley Termo Clásico 1 L",
+        "price": 3279,
+        "image": "images/imagen1.jpg",
+        "description": "Con Tapón Cebador de acero inoxidable. Mantiene las bebidas calientes o frías."
+    },
+    {
+        "id": 2,
+        "name": "Mate System Classic 1.2 Lts",
+        "price": 4035,
+        "image": "images/imagen2.jpg",
+        "description": "El mate ideal para compartir momentos únicos. Incluye bombilla y tapa hermética."
+    },
+    {
+        "id": 3,
+        "name": "Termo Stanley Nueva Generación 940 Ml",
+        "price": 4768,
+        "image": "images/imagen3.jpg",
+        "description": "Un termo moderno con asa y mate incluido. Plan B para los aventureros."
+    },
+    {
+        "id": 4,
+        "name": "Termo Stanley Adventure To Go",
+        "price": 2890,
+        "image": "images/imagen4.jpg",
+        "description": "Perfecto para llevar a cualquier lugar. Compacto y resistente."
+    },
+    {
+        "id": 5,
+        "name": "Termo Stanley Classic Rosado | 950 Ml",
+        "price": 3051,
+        "image": "images/imagen5.jpg",
+        "description": "Elegante y funcional en color rosado. Capacidad de 950 ml."
+    }
+]
